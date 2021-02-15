@@ -6,6 +6,8 @@ for x in str:
     else:
         dic[x] = 1
 
+
+
 print(dic)
 for x in dic:
     if dic[x]==1:
